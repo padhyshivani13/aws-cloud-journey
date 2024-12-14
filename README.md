@@ -1,4 +1,4 @@
-# Day 10: Amazon EC2  
+# Day 1: Amazon EC2  
 
 ## 📚 What I Learned:  
 Amazon EC2 is AWS's IaaS (Infrastructure-as-a-Service) offering, providing scalable virtual servers. Here's a breakdown of my learning:  
