@@ -15,6 +15,9 @@ Amazon EC2 is AWS's IaaS (Infrastructure-as-a-Service) offering, providing scala
 
 ---
 
+![napkin-selection](https://github.com/user-attachments/assets/fbe472cf-28ce-4d7e-aa17-1449d3546479)
+
+
 ## 🛠️ Hands-On Practice:  
 
 1. **Launch an EC2 Instance:**  
